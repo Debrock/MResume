@@ -1,0 +1,117 @@
+body
+{
+  margin: 0;
+  background-color: black;
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Righteous', sans-serif;
+}
+h1{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  margin: 0 auto 0 auto;
+  font-family: 'Orbitron', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Aclonica', sans-serif;
+}
+h3{
+  color: white;
+  font-family: 'Libre Baskerville', sans-serif;
+}
+hr{
+  border: dotted #f4f4f4 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+p{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    line-height: 2;
+}
+.pk{
+  color: #66BFBF;
+  font-family: 'Aclonica', sans-serif;
+  text-decoration: underline;
+  font-weight: normal;
+  line-height: 2;
+}
+.front{
+  background-color: black;
+}
+.imgbox{
+  position: relative;
+  margin-top: 130px;
+}
+.im1{
+  position: relative;
+  right: 250px;
+}
+
+.im2{
+  position: relative;
+  left:  250px;
+}
+.impp{
+  margin: 200px auto 50px auto;
+  border-radius: 100px;
+}
+.suit{
+  width: 25%;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.game{
+  width: 30%;
+  border-radius: 100px;
+  float: right;
+  margin-left: 30px;
+}
+.footer-link{
+  color: #11999E;
+}
+.btn{
+    color: #11999E;
+}
+.skill-row{
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.bottom-container{
+  background-color: #222831;
+  line-height: 3;
+}
+
+
+.button {
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.button1 {
+  color: black;
+  background-color: #66BFBF;
+  border: 2px solid black;
+
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button1:hover {
+  background-color: white;
+  color: #66BFBF;
+}
